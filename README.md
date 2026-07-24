@@ -19,8 +19,8 @@ An interactive and visual data analysis dashboard built using **Google Sheets** 
 3. **Content Category Distribution (Donut Chart):** Breaks down the channel's focus areas, highlighting **Politics & Geopolitics (29.4%)**, **Philanthropy (18.1%)**, **Finance (13.3%)**, and **Education (11.6%)**.
 
 ---
-## 🔗 Live Interactive Dashboard
-👉 **[View Live Google Sheet Dashboard Here](https://docs.google.com/spreadsheets/d/your-actual-sheet-link)**
+## 🔗 Live Interactive Dashboardk)
+👉 **[View Live Google Sheet Dashboard Here](https://docs.google.com/spreadsheets/d/1tvnIldFto1Xv1yjxP8e8FUMSUGTizRzOPyyI3O76C7A/edit?gid=0#gid=0)**
 
 ---
 
